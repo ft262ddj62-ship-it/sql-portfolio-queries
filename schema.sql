@@ -1,3 +1,5 @@
+#Пример структуры базы
+
 CREATE TABLE customers (
 customer_id INT PRIMARY KEY,
 first_name VARCHAR(50),
